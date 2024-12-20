@@ -5,7 +5,7 @@ import SubscriberList from './components/SubscriberList'
 
 const App = () => {
   return (
-    <Router basename="/get-youtube-subscribers-frontend">
+    <Router>
       <Routes>
         <Route path="/" element={<SubscriberList />} />
       </Routes>

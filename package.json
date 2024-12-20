@@ -44,7 +44,8 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.2.0"
   },
-  "homepage": "https://vikasdhyani72.github.io/get-youtube-subscribers-frontend"
+  "homepage": "https://get-youtube-subscribers-frontend.onrender.com"
+
 
 
 }

@@ -29,3 +29,6 @@ coverage/
 .DS_Store
 build
 .vscode/
+
+# Local Netlify folder
+.netlify

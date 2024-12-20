@@ -9,7 +9,6 @@ import {
   List,
   ListItem,
   ListItemText,
-  Grid,
 } from '@mui/material'
 import { GitHub, LinkedIn, Mail } from '@mui/icons-material'
 

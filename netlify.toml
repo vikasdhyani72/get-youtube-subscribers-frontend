@@ -1,0 +1,8 @@
+[build]
+  publish = "build"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/get-youtube-subscribers-frontend/*"
+  to = "/:splat"
+  status = 200

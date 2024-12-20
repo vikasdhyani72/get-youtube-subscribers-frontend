@@ -4,5 +4,6 @@
 
 [[redirects]]
   from = "/get-youtube-subscribers-frontend/*"
-  to = "/:splat"
+  to = "/get-youtube-subscribers-frontend/:splat"
   status = 200
+  force = true

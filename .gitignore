@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Build outputs
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Testing coverage
+coverage/
+
+# Misc
+.eslintcache
+.env
+.DS_Store
+build
+.vscode/

@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy" : "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,5 +43,5 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   },
-  "homepage": "https://github.com/vikasdhyani72.github.io/https://github.com/vikasdhyani72/get-youtube-subscribers-frontend.git"
+  "homepage": "https://vikasdhyani72.github.io/get-youtube-subscribers-frontend"
 }
